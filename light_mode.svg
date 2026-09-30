@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,Menlo,monospace" width="985px" height="530px" font-size="16px">
+<style>
+.fg {fill: #24292f;} .key {fill: #953800;} .value {fill: #0a3069;}
+.cc {fill: #6e7781;} .art {fill: #8250df;} .accent {fill: #1a7f37;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#fffefe" rx="15"/>
+<text x="20" y="56" class="art">
+<tspan x="20" y="56">                +=+</tspan>
+<tspan x="20" y="76">                 =+</tspan>
+<tspan x="20" y="96">          ======+++      ===    ====</tspan>
+<tspan x="20" y="116">        ==+====+=+=   ++====++++===+</tspan>
+<tspan x="20" y="136">        +=++++***+++++++++++++=+++=+</tspan>
+<tspan x="20" y="156">++    ++++******#####******++++   +</tspan>
+<tspan x="20" y="176">++ * ==+**####*###%%@@%####**+*++++==</tspan>
+<tspan x="20" y="196"> +=+++###%@@%%%%%%@@@@@%%%###*+++====++  +==</tspan>
+<tspan x="20" y="216">+=+= +%#@@@@@@@@@@@@@@@@@%%@%#*+++++++   +==</tspan>
+<tspan x="20" y="236"> =+   *@@@@@@@@@@@@@@@%*=  @@%#*+++++    +==</tspan>
+<tspan x="20" y="256">  +    +@@@@@@@@@@@#+      *@@##++++  ++===</tspan>
+<tspan x="20" y="276">  #     +%%@@%@@%+         +%@%#++++++++=-=</tspan>
+<tspan x="20" y="296">  #=     +@@@%#            %@@##++++++++++=+</tspan>
+<tspan x="20" y="316"> ==+=    #@@@@*           #@@##*+++++++++++</tspan>
+<tspan x="20" y="336">  ===++*@@@@@%%#+-      +%@%##*+++++++++</tspan>
+<tspan x="20" y="356">    =++*#%%%%%%%%%#+###%%%##*++++++++==</tspan>
+<tspan x="20" y="376">     ++++*****+++*#*@%%##**+++++++</tspan>
+<tspan x="20" y="396">          ++***#####***+++++++++++ +=</tspan>
+<tspan x="20" y="416">          +=+++++++++++++  +++**   +=</tspan>
+<tspan x="20" y="436">            ++++++  ***      **</tspan>
+<tspan x="119" y="466" class="accent">~ ghost in the shell ~</tspan>
+</text>
+<text x="430" y="56" class="fg">
+<tspan x="430" y="56"><tspan class="key">nicolas</tspan><tspan class="cc"> -——————————————————————————————————————————————————-</tspan></tspan>
+<tspan x="430" y="84"><tspan class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="fg">: </tspan><tspan class="cc">................................................ </tspan><tspan class="value">Linux</tspan></tspan>
+<tspan x="430" y="112"><tspan class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="fg">: </tspan><tspan class="cc">................................ </tspan><tspan class="value">Security Researcher</tspan></tspan>
+<tspan x="430" y="140"><tspan class="cc">. </tspan><tspan class="key">Background</tspan><tspan class="fg">: </tspan><tspan class="cc">........................... </tspan><tspan class="value">Full Stack, DevOps</tspan></tspan>
+<tspan x="430" y="196"><tspan class="cc">. </tspan><tspan class="key">Languages.Programming</tspan><tspan class="fg">: </tspan><tspan class="cc">.......... </tspan><tspan class="value">TypeScript, Python, Java</tspan></tspan>
+<tspan x="430" y="224"><tspan class="cc">. </tspan><tspan class="key">Languages.Real</tspan><tspan class="fg">: </tspan><tspan class="cc">......................... </tspan><tspan class="value">Espanol, English</tspan></tspan>
+<tspan x="430" y="280"><tspan class="key">- Focus</tspan><tspan class="cc"> -——————————————————————————————————————————————————-</tspan></tspan>
+<tspan x="430" y="308"><tspan class="cc">. </tspan><tspan class="key">Now</tspan><tspan class="fg">: </tspan><tspan class="cc">................................... </tspan><tspan class="value">security research</tspan></tspan>
+<tspan x="430" y="336"><tspan class="cc">. </tspan><tspan class="key">Interests</tspan><tspan class="fg">: </tspan><tspan class="cc">.............. </tspan><tspan class="value">appsec, pentesting, self-hosting</tspan></tspan>
+<tspan x="430" y="392"><tspan class="key">- Contact</tspan><tspan class="cc"> -————————————————————————————————————————————————-</tspan></tspan>
+<tspan x="430" y="420"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="fg">: </tspan><tspan class="cc">.................................. </tspan><tspan class="value">in/nicolasdlp</tspan></tspan>
+<tspan x="430" y="448"><tspan class="cc">. </tspan><tspan class="key">Email</tspan><tspan class="fg">: </tspan><tspan class="cc">.............................. </tspan><tspan class="value">nicolas@delapava.dev</tspan></tspan>
+</text></svg>
